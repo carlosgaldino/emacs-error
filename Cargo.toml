@@ -1,0 +1,6 @@
+[package]
+name = "emacs-error"
+version = "0.1.0"
+authors = ["Carlos Galdino <carloshsgaldino@gmail.com>"]
+
+[dependencies]
